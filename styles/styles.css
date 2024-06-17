@@ -703,7 +703,7 @@ section {
 
 .banner {
   display: flex;
-  width: 20%;
+  width: 10%;
   animation: rotateBanner 20s infinite linear;
 }
 
